@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gilead
-description: Marilynne Robinson
-img: assets/img/bookcover/gilead.jpg
-importance: 4
+title: Never Let Me Go
+description: Kazuo Ishiguro
+img: assets/img/bookcover/neverletmego.jpg
+importance: 20
 category: fun
 ---
 

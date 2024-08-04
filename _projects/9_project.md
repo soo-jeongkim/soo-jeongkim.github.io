@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gilead
-description: Marilynne Robinson
-img: assets/img/bookcover/gilead.jpg
-importance: 4
+title: The Unabridged Journals of Sylvia Plath
+description: Sylvia Plath
+img: assets/img/bookcover/sylviaplath.jpg
+importance: 9
 category: fun
 ---
 

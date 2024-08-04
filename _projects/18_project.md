@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gilead
-description: Marilynne Robinson
-img: assets/img/bookcover/gilead.jpg
-importance: 4
+title: A Life of One's Own
+description: Joanna Biggs
+img: assets/img/bookcover/test.jpg
+importance: 18
 category: fun
 ---
 

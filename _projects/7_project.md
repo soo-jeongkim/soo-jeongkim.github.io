@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gilead
-description: Marilynne Robinson
-img: assets/img/bookcover/gilead.jpg
-importance: 4
+title: Almond
+description: Won-Pyung Sohn
+img: assets/img/bookcover/almond.jpg
+importance: 7
 category: fun
 ---
 

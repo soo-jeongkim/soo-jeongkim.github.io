@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gilead
-description: Marilynne Robinson
-img: assets/img/bookcover/gilead.jpg
-importance: 4
+title: Tell Me How Long The Train's Been Gone
+description: James Baldwin
+img: assets/img/bookcover/TellMeHowLongTheTrainsBeenGone.jpg
+importance: 12
 category: fun
 ---
 

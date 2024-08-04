@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gilead
-description: Marilynne Robinson
-img: assets/img/bookcover/gilead.jpg
-importance: 4
+title: Sorrow and Bliss
+description: Meg Mason
+img: assets/img/bookcover/sorrowandbliss.jpg
+importance: 13
 category: fun
 ---
 

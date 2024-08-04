@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gilead
-description: Marilynne Robinson
-img: assets/img/bookcover/gilead.jpg
-importance: 4
+title: The Joy Luck Club
+description: Amy Tan
+img: assets/img/bookcover/thejoyluckclub.jpg
+importance: 14
 category: fun
 ---
 

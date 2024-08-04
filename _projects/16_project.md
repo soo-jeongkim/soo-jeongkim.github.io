@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gilead
-description: Marilynne Robinson
-img: assets/img/bookcover/gilead.jpg
-importance: 4
+title: When Stars Are Scattered
+description: Omar Mohamed
+img: assets/img/bookcover/whenstarsarescattered.jpg
+importance: 16
 category: fun
 ---
 

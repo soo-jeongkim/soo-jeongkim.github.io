@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: The Most Secret Memory of Men
+description: Mohamed Mbougar Sarr
+img: assets/img/bookcover/themostsecretmemoryofmen.jpg
 importance: 2
 category: work
 giscus_comments: true

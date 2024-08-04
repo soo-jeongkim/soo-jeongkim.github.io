@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gilead
-description: Marilynne Robinson
-img: assets/img/bookcover/gilead.jpg
-importance: 4
+title: Demon Copperhead
+description: Barbara Kingsolver
+img: assets/img/bookcover/demoncopperhead.jpg
+importance: 8
 category: fun
 ---
 

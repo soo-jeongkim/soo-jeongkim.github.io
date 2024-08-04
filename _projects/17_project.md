@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gilead
-description: Marilynne Robinson
-img: assets/img/bookcover/gilead.jpg
-importance: 4
+title: Feel Free
+description: Zadie Smith
+img: assets/img/bookcover/feelfree.jpg
+importance: 17
 category: fun
 ---
 

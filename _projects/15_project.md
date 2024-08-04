@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gilead
-description: Marilynne Robinson
-img: assets/img/bookcover/gilead.jpg
-importance: 4
+title: When Breath Becomes Air
+description: Paul Kalanithi
+img: assets/img/bookcover/whenbreathbecomesair.jpg
+importance: 15
 category: fun
 ---
 

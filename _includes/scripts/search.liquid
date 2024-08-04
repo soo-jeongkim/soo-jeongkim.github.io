@@ -1,4 +1,4 @@
-{% if site.search_enabled %}
+{% comment %} {% if site.search_enabled %}
   <script type="module" src="{{ '/assets/js/search/ninja-keys.min.js' | relative_url | bust_file_cache }}"></script>
   <ninja-keys hideBreadcrumbs noAutoLoadMdIcons placeholder="Type to start searching"></ninja-keys>
   <script>
@@ -552,4 +552,4 @@
       {%- endif -%}
     ];
   </script>
-{% endif %}
+{% endif %} {% endcomment %}

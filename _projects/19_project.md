@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gilead
-description: Marilynne Robinson
-img: assets/img/bookcover/gilead.jpg
-importance: 4
+title: Giovanni's Room
+description: James Baldwin
+img: assets/img/bookcover/giovannisroom.jpg
+importance: 19
 category: fun
 ---
 

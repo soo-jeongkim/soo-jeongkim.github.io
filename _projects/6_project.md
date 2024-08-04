@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
+title: Tomorrow and Tomorrow and Tomorrow
+description: Gabrielle Zevin
+img: assets/img/bookcover/ttt.jpg
+importance: 6
 category: fun
 ---
 

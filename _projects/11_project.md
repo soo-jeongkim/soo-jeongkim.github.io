@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gilead
-description: Marilynne Robinson
-img: assets/img/bookcover/gilead.jpg
-importance: 4
+title: For Colored Girls
+description: Ntozake Shange
+img: assets/img/bookcover/test2.jpg
+importance: 11
 category: fun
 ---
 

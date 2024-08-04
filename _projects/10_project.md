@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Gilead
-description: Marilynne Robinson
-img: assets/img/bookcover/gilead.jpg
-importance: 4
+title: Educated
+description: Tara Westover
+img: assets/img/bookcover/educated.jpg
+importance: 10
 category: fun
 ---
 

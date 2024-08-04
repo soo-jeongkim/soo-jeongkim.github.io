@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: If Beale Street Could Talk
+description: James Baldwin
+img: assets/img/bookcover/if bealestreetcouldtalk.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
