@@ -24,7 +24,7 @@ I am a first year PhD student at [EMBL-EBI](https://www.ebi.ac.uk/) and the [Uni
 
 I completed my MPhil at the [Department of Engineering](https://www.eng.cam.ac.uk/) in Cambridge and was an undergraduate at [Imperial College London](https://www.imperial.ac.uk/life-sciences/). 
 
-I also love to read, you can check out my [bookshelf](https://soo-jeongkim.github.io/bookshelf/) here, and my goodreads [here](https://www.goodreads.com/user/show/147037822-soo-jeong-kim) :) 
+I also love to read, you can check out my [bookshelf](https://soo-jeongkim.github.io/bookshelf/), and my [goodreads](https://www.goodreads.com/user/show/147037822-soo-jeong-kim) :) 
 
 
 <!-- 
