@@ -2,7 +2,7 @@
 layout: page
 title: Tell Me How Long The Train's Been Gone
 description: James Baldwin
-img: assets/img/bookcover/TellMeHowLongTheTrainsBeenGone.jpg
+img: assets/img/bookcover/tellmehowlongthetrainsbeengone.jpg
 importance: 12
 category: fun
 ---
