@@ -22,9 +22,9 @@ Hi! This is Soo :)
 
 I am a first year PhD student at [EMBL-EBI](https://www.ebi.ac.uk/) and the [University of Cambridge](https://www.cam.ac.uk/), under the supervision of [Dr Isidro Cortes-Ciriano](https://www.ebi.ac.uk/research/cortes-ciriano/). I am interested in problems at the intersection of machine learning and biology.
 
-I completed my MPhil at the [Department of Engineering](https://www.eng.cam.ac.uk/) in Cambridge and was an undergraduate at [Imperial College London](https://www.imperial.ac.uk/life-sciences/). 
+I completed my engineering masters at the [University of Cambridge](https://www.cam.ac.uk/) and was an undergraduate at [Imperial College London](https://www.imperial.ac.uk/life-sciences/). 
 
-I also love to read, you can check out my [bookshelf](https://soo-jeongkim.github.io/bookshelf/), and my [goodreads](https://www.goodreads.com/user/show/147037822-soo-jeong-kim) :) 
+I also love to read! Go check out my [bookshelf](https://soo-jeongkim.github.io/bookshelf/), and my [goodreads](https://www.goodreads.com/user/show/147037822-soo-jeong-kim) :) 
 
 
 <!-- 
